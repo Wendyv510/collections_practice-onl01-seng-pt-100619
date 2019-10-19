@@ -51,7 +51,7 @@ def sort_array_char_count(length)
  reverse_array(12,4,35)
  
  def kesha_maker(names)
-   names -[] 
+   names =[] 
    kesha_maker.each do |names|
      {|name| $<<.third} 
    end 
@@ -60,13 +60,19 @@ def sort_array_char_count(length)
  kesha_maker("Blake", "Ashley", "Scott")
  
  
- def find_a(fruits)
-   fruits =[]
-   
-   
+ def find_a(words)
+   words =[]
+   words.select do |words| 
+     {|words| start_with?"a"}
+   end 
  end 
  
- find_a("apple", "")
+ find_a("apple", "orange", "pear", "avis", "arlo", "ascot") 
+ 
+ 
+ def sum.array()
+   integers =[]
+   
  
  
    

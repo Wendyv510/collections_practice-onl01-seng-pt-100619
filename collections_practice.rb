@@ -25,9 +25,13 @@ def sort_array_char_count(length)
  
  sort_array_char_count("dogs", "cat", "Horses")
  
- def swap_elements(array, index)
-   
-   
-   
+ def swap_elements(name)
+   name = [] 
+   name[1],name[2].swap_elements
    
  end 
+ 
+ swap_elements("Blake", "Ashley", "Scott")
+ 
+ 
+ 

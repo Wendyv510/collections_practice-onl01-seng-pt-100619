@@ -51,12 +51,16 @@ def sort_array_char_count(length)
  reverse_array(12,4,35)
  
  def kesha_maker(names)
+   names -[] 
    kesha_maker.each do |names|
      {|name| $<<.third} 
    end 
  end 
  
  kesha_maker("Blake", "Ashley", "Scott")
+ 
+ 
+ def find_a
  
  
    

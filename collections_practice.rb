@@ -11,7 +11,7 @@ end
 end 
 
 def sort_array_char_count(length)
-  length = []
+  length = ["dog","cat","horses"]
   length.sort do {|a,b|.length}
      a <=> b 
    end 

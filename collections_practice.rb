@@ -70,12 +70,15 @@ def sort_array_char_count(length)
  find_a("apple", "orange", "pear", "avis", "arlo", "ascot") 
  
  
- def sum_array()
+ def sum_array(integers)
    integers =[]
    sum_array.inject
  end 
  
- sum_array(11,7,8,9,100,134)
+ sum_array(11,4,7,8,9,100,134)
+ 
+ def add_s(body parts)
+   )
  
  
    

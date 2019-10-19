@@ -43,7 +43,12 @@ def sort_array_char_count(length)
  
  swap_elements_from_to(["a", "b", "c"], 2,1)
  
+ def reverse_array(integers)
+   integers =[]
+   integers.reverse
+ end 
  
+ reverse_array()
    
    
    

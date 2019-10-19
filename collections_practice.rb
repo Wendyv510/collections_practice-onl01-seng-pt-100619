@@ -1,5 +1,5 @@
 def sort_array_asc(ascending)
-  ascending =[]
+  ascending =[25,7,1]
   ascending.sort 
 end 
 

@@ -75,7 +75,7 @@ def sort_array_char_count(length)
    sum_array.inject
  end 
  
- sum_array()
+ sum_array(11,7,8,9,100,134)
  
  
    

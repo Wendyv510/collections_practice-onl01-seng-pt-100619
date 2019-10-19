@@ -60,7 +60,13 @@ def sort_array_char_count(length)
  kesha_maker("Blake", "Ashley", "Scott")
  
  
- def find_a
+ def find_a(fruits)
+   fruits =[]
+   
+   
+ end 
+ 
+ find_a("apple", "")
  
  
    

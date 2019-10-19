@@ -34,4 +34,20 @@ def sort_array_char_count(length)
  swap_elements("Blake", "Ashley", "Scott")
  
  
- def swap_elements_from_to(n)
+ def swap_elements_from_to(letter,index,destination_index)
+   letter =[].each_with_index 
+   input(destination_index).move_to
+ end 
+ 
+ swap_elements_from_to(["a", "b", "c"], 0,2)
+ 
+ swap_elements_from_to(["a", "b", "c"], 2,1)
+ 
+ 
+   
+   
+   
+   
+   
+   
+   

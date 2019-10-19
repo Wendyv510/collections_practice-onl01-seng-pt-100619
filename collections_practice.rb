@@ -1,3 +1,5 @@
+require_relative '../collections_practice_spec.rb'
+
 def sort_array_asc(ascending)
   ascending =[25,7,1]
   ascending.sort 

@@ -4,7 +4,7 @@ def sort_array_asc(ascending)
 end 
 
 def sort_array_desc(descending)
-  descending = []
+  descending = [25,7,14]
  descending.sort do |b,a|
   b<=>a 
 end 

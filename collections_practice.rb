@@ -78,7 +78,13 @@ def sort_array_char_count(length)
  sum_array(11,4,7,8,9,100,134)
  
  def add_s(body parts)
-   )
+   body parts = []
+   [1,2,4].each_with_index.collect{|element,index|}
+ end 
+ end 
+ 
+ add_s("")
+   
  
  
    

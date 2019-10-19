@@ -83,7 +83,7 @@ def sort_array_char_count(length)
  end 
  end 
  
- add_s("")
+ add_s("hand","feet","knee","table") 
    
  
  
